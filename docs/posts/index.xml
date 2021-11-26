@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Callo Blog</title>
-    <link>http://127.0.0.1:5500/posts/</link>
+    <link>https://user0608.github.io/pruebita-hugo/posts/</link>
     <description>Recent content in Posts on Callo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Nov 2021 11:20:05 -0500</lastBuildDate><atom:link href="http://127.0.0.1:5500/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Nov 2021 11:20:05 -0500</lastBuildDate><atom:link href="https://user0608.github.io/pruebita-hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La importancia de la informacion en la actualidad</title>
-      <link>http://127.0.0.1:5500/posts/bigdata/</link>
+      <link>https://user0608.github.io/pruebita-hugo/posts/bigdata/</link>
       <pubDate>Fri, 26 Nov 2021 11:20:05 -0500</pubDate>
       
-      <guid>http://127.0.0.1:5500/posts/bigdata/</guid>
+      <guid>https://user0608.github.io/pruebita-hugo/posts/bigdata/</guid>
       <description>La importancia de la informacion en la actualidad La información es un recurso vital para toda organización, y el buen uso de ésta puede significar la diferencia entre el éxito o el fracaso para una empresa. El éxito de una organización ya no depende sólo de la manera en que cada persona maneja sus recursos materiales, sino que es más importante el buen aprovechamiento de los activos intangibles tales como el know-how (hacer como), el conocimiento de cliente y de mercado, etc.</description>
     </item>
     

@@ -1,4 +1,4 @@
-baseURL = 'http://127.0.0.1:5500/'
+baseURL = 'https://user0608.github.io/pruebita-hugo/'
 languageCode = 'en-us'
 title = 'Callo Blog'
 theme = "soho"

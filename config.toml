@@ -1,0 +1,23 @@
+baseURL = 'http://127.0.0.1:5500/'
+languageCode = 'en-us'
+title = 'Callo Blog'
+theme = "soho"
+
+[menu]
+    [[menu.main]]
+    name="Posts"
+    identifer= "posts"
+    weight =100 
+    url="/posts"
+
+
+[[params.socialIcons]]
+  icon = "fa-linkedin"
+  title = "Linkedin"
+  url = "/googoogogo"
+
+   [[params.socialIcons]]
+  icon = "fa-github"
+  title = "GitHub"
+  url = "https://www.github.com/user0608"
+
